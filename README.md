@@ -11,8 +11,9 @@ the computational backend is [TensorFlow](https://www.tensorflow.org).
 ## Installation ##
 
 First, install GPflow.
-Note: this repo is designed to work with [this fork](https://github.com/sdatkinson/GPflow).
-Next, simply `python setup.py install` as usual.
+(Note: this repo is designed to work with [this fork](https://github.com/sdatkinson/GPflow).)
+
+Then, simply `python setup.py install` as usual.
 
 ## Models ##
 
