@@ -1,7 +1,7 @@
 # structured-gpflow #
 
 Implements a variety of Gaussian process models exploiting the "structured" 
-assumption that one has inputs that ae formed as a Cartesian product as well 
+assumption that one has inputs that are formed as a Cartesian product as well 
 as a kernel that is separable so that one may decompose the associated kernel 
 matrices as Kronecker products for a representation that is computationally 
 efficient in terms of both time and memory.  
